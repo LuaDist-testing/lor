@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lor"
-version = "0.0.5-3"
+version = "0.0.5-4"
 -- LuaDist source
 source = {
-  tag = "0.0.5-3",
+  tag = "0.0.5-4",
   url = "git://github.com/LuaDist-testing/lor.git"
 }
 -- Original source
@@ -18,7 +18,7 @@ description = {
    license = "MIT"
 }
 dependencies = {
-    "luajit>=2.0.4",
+    "luajit=2.0.4",
     "lua>=5.1"
 
 }
